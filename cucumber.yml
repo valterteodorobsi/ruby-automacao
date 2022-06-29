@@ -1,0 +1,11 @@
+#default: --no-source --color --format pretty --format html --out report.html
+
+chrome: PLATFORM_NAME='chrome'
+firefox: PLATFORM_NAME='firefox'
+report: --format AllureCucumber::CucumberFormatter  --out allure-results/chrome
+
+
+# Environments
+prod: URI= 'https:/hml.sharesl.com.br'
+uat: URI= 'https://dev.sharesl.com.br/'
+des: URI= 'http://srvstsbomaster001.gft.com:3000/'

@@ -1,0 +1,16 @@
+allure-report
+allure-results/**/*.json
+allure-results/**/*.png
+doc
+exec-logs/*.log
+*.aab
+.vscode
+.idea/*
+.idea/frontend.iml
+
+
+Gemfile.lock
+node_modules/
+nohup.out
+package-lock.json
+instantclient_12_1/

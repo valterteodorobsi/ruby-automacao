@@ -1,0 +1,48 @@
+url: 'https://seubarriga.wcaquino.me/login'
+database:
+  host: "00.00.000.0:1521/exemple"
+  user: 'exemple'
+  password: 'exemple'
+
+login_valido:
+  email: "teste123@teste.com.br"
+  senha: "1234"
+
+login_invalido:
+  email: "teste1234_@teste.com.br"
+  senha: "12345"
+
+cliente:
+  cliente_ja_cadastrato: "Maria Murphy"
+  cliente_ja_cadastrato_butanta: "Allana Cruz"
+  cliente_ja_cadastrato_vilamariana: "Heitor Meireles"
+  cliente_ja_cadastrato_consolacao: "Miss Antonieta"
+  cliente_estrangeiro: "Mariana roberta Martins"
+  cliente_brasileiro: "Guilherme Miranda De Souza"
+  cpf_ja_cadastrado: "707.273.280-26"
+  email_ja_cadastrado: "kifaxo4623@alltekia.com"
+  cliente_com_proposta: "Adriana Amâncio"
+
+loginAdm:
+  nome: "administrador@gmail.com"
+  senha: "mitre123"
+
+cadastro_signatarios:
+  tipo_assinatura: "Testemunha"
+  share: "Butantã"
+  share2: "Vila Mariana"
+
+unidades:
+  numero_unidade_consolacao_proposta: "156A"
+  numero_unidade_butanta_proposta: "307B"
+  numero_unidade_vila_mariana_proposta: "509A"
+  numero_unidade_consolacao_proposta_ja_cadastrado: "163A"
+  numero_unidade_consolacao: "117A"
+  numero_unidade_butanta: ""
+  numero_unidade_vila_mariana: ""
+  numero_unidade_consolacao_tipologia: "143A"
+
+
+
+evento:
+  evento_cadastrado: "festa no parque"

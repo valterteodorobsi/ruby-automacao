@@ -1,0 +1,28 @@
+login:
+  nome: "eshi.mcruz@gmail.com"
+  senha: "12345"
+
+massa:
+  nome: "Eshilane"
+  email: "eshi7.mcruz@gmail.com"
+  senha: "12345"
+
+
+loginAdm:
+  nome: "admin@admin.com"
+  senha: "mitre123"
+
+cadastro_signatarios:
+  tipo_assinatura: "Testemunha"
+  share: "Butantã"
+  share2: "Vila Mariana"
+
+loginAdmHom:
+  nome: "administrador@gmail.com"
+  senha: "mitre123"
+
+urlAreaNaoLogada:
+  url: "https://dev.sharesl.com.br/#/customer-login"
+
+urlhome:
+  url: "https://dev.sharesl.com.br/#/home"

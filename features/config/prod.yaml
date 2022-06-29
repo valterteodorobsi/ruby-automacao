@@ -1,0 +1,55 @@
+url: 'https://seubarriga.wcaquino.me/login'
+database:
+  host: "00.00.000.0:1521/exemple"
+  user: 'exemple'
+  password: 'exemple'
+
+login_valido:
+  email: "teste123@teste.com.br"
+  senha: "1234"
+
+login_invalido:
+  email: "teste1234_@teste.com.br"
+  senha: "12345"
+
+
+cliente:
+  cliente_ja_cadastrato: "Rosa Silva"
+  cliente_ja_cadastrato_butanta: "Lucar Rosa"
+  cliente_ja_cadastrato_vilamariana: "Clara Puccetti Leandrini de Camargo"
+  cliente_ja_cadastrato_consolacao: "Miguel Araújo"
+  cliente_estrangeiro: "Pedro Rosa"
+  cliente_brasileiro: "Davi Luiz Peres"
+  cpf_ja_cadastrado: "700.696.827-55"
+  email_ja_cadastrado: "shaneka_oberbrunner@gmail.net"
+  cliente_com_proposta: "Ernesto Alcantara de Abreu"
+
+loginAdm:
+  nome: "admin@admin.com"
+  senha: "mitre123"
+
+cadastro_signatarios:
+  tipo_assinatura: "Testemunha"
+  share: "Butantã"
+  share2: "Vila Mariana"
+
+unidades:
+  numero_unidade_consolacao_proposta: "48A"
+  numero_unidade_butanta_proposta: "52C"
+  numero_unidade_vila_mariana_proposta: "200B"
+  numero_unidade_consolacao_proposta_ja_cadastrado: "138B"
+  numero_unidade_consolacao: "163A"
+  numero_unidade_butanta: "77D"
+  numero_unidade_vila_mariana: "707A"
+  numero_unidade_consolacao_alterar_tipo_apartamento: "56A"
+  numero_unidade_consolacao_cadastrar_tipo_tipologia: "37A"
+  numero_unidade_consolacao_alterar_tipo_tipologia: "37A"
+  numero_unidade_butanta_cadastrar_tipo_tipologia : "1305A"
+  numero_unidade_butanta_alterar_tipo_tipologia : "156A"
+  numero_unidade_vila_mariana_cadastrar_tipo_tipologia: "509A"
+  numero_unidade_vila_mariana_alterar_tipo_tipologia: "609A"
+  numero_unidade_butanta_terar: "77D"
+  numero_unidade_vila_mariana_alterar: "707A"
+
+evento:
+  evento_cadastrado: "Evento1"

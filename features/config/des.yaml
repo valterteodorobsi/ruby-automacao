@@ -1,0 +1,56 @@
+
+url: 'https://seubarriga.wcaquino.me/login'
+database:
+  host: "00.00.000.0:1521/exemple"
+  user: 'exemple'
+  password: 'exemple'
+
+login_valido:
+  email: "teste123@teste.com.br"
+  senha: "1234"
+
+login_invalido:
+  email: "teste1234_@teste.com.br"
+  senha: "12345"
+
+cliente:
+  cliente_ja_cadastrato: "Maria Murphy"
+  cliente_ja_cadastrato_butanta: "Minato Namikaze"
+  cliente_ja_cadastrato_vilamariana: "Van Hohenheim"
+  cliente_ja_cadastrato_consolacao: "Matheus serqueira"
+  #cliente_ja_cadastrato_consolacao: "Agatha da Luz"
+  cliente_estrangeiro: "Matheus serqueira"
+  cliente_brasileiro: "Paula de Alcantara Melo"
+  cpf_ja_cadastrado: "418.346.190-17"
+  email_ja_cadastrado: "1vtrn@gft.com"
+  cliente_com_proposta: "Kevin Bosa"
+
+loginAdm:
+  nome: "admin@admin.com"
+  senha: "mitre123"
+
+cadastro_signatarios:
+  tipo_assinatura: "Testemunha"
+  share: "Butantã"
+  share2: "Vila Mariana"
+
+unidades:
+  numero_unidade_consolacao_proposta: "156A"
+  numero_unidade_butanta_proposta: "47E"
+  numero_unidade_vila_mariana_proposta: "509A"
+  numero_unidade_consolacao_proposta_ja_cadastrado: "163A"
+  numero_unidade_consolacao: "163A"
+  numero_unidade_butanta: "77D"
+  numero_unidade_vila_mariana: "707A"
+  numero_unidade_consolacao_alterar_tipo_apartamento: "56A"
+  numero_unidade_consolacao_cadastrar_tipo_tipologia: "37A"
+  numero_unidade_consolacao_alterar_tipo_tipologia: "37A"
+  numero_unidade_butanta_cadastrar_tipo_tipologia : "1305A"
+  numero_unidade_butanta_alterar_tipo_tipologia : "156A"
+  numero_unidade_vila_mariana_cadastrar_tipo_tipologia: "509A"
+  numero_unidade_vila_mariana_alterar_tipo_tipologia: "609A"
+  numero_unidade_butanta_terar: "77D"
+  numero_unidade_vila_mariana_alterar: "707A"
+
+evento:
+  evento_cadastrado: "value proposition"
