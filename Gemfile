@@ -9,7 +9,7 @@ gem 'webdrivers'
 gem 'site_prism'
 gem 'cpf_faker'
 gem 'faker'
-gem 'allure-cucumber', '2.13.3'
+gem "allure-cucumber"
 gem 'test-unit'
 gem 'yard'
 gem 'yard-cucumber'

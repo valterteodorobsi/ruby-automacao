@@ -57,7 +57,8 @@ RUN export PATH=$PATH:/usr/local/bin/chromedriver
 #RUN apt-get -y install google-chrome-stable
 #RUN apt-get update && apt-get -y install google-chrome-stable
 
-RUN gem install bundler && bundle install
+RUN ls
+
 
 COPY . $APP_HOME
 ENV ENVIRONMENT default
